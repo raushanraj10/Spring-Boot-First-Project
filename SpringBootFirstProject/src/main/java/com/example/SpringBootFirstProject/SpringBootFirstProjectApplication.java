@@ -12,7 +12,7 @@ public class SpringBootFirstProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootFirstProjectApplication.class, args);
-			System.out.println("hi");
+			System.out.println("Successfully Running Spring Boot");
 		}
 
 };
